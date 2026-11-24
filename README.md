@@ -1,7 +1,5 @@
-# Lielle Team Hub
+# Evan's Study Guide
 
-Menu study site for the Lielle team: https://preshiftnotesmedia.github.io/lielle-team-hub/
+Evan Stern's personal menu study notes, locked with a passcode. Not an official Lielle or Marée document, and not a restaurant tool. Confirm every allergy with Expo or the kitchen.
 
-The page is locked with a team passcode; ask a manager for it. The menu data in `index.html` is encrypted and unreadable without the passcode.
-
-Built every night from Evan Stern's study notes. Not an official Lielle document: confirm every allergy with Expo or the kitchen. Don't edit this repo by hand; the next build replaces `index.html`.
+This repository holds only the locked page and encrypted files; nothing here is readable without the passcode.
